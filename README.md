@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Frontend Developement**
 
-- 💬 Ask me about **Java, Spring Boot, Hibernate**
+- 👨‍💻 All of my projects are available at [https://surandan.github.io/My_Portfolio/](https://surandan.github.io/My_Portfolio/)
+
+- 💬 Ask me about **Java, Spring Boot, Hibernate, SQL**
 
 - 📫 How to reach me **surandan7107@gmail.com**
 
